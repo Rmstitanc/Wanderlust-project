@@ -6,7 +6,7 @@ const {listingSchema, reviewSchema} = require("../schema.js");
 const Listing = require("../models/listing.js");
 const {isLoggedin, isOwner, validateListing} = require("../middleware.js");
 const multer = require("multer");
-const {storage} = require("c:/Users/Rohit Saha/OneDrive/Desktop/Code_Help/MAJORPROJECT/cloudconfig");
+const {storage} = require("../cloudConfig.js");
 const upload = multer({ storage });
 
 
