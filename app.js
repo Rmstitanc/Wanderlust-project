@@ -106,9 +106,9 @@ async function main(){
 
 //Root route
 
-// app.get("/", (req, res) => {
-//     res.send("Hello i am root");
-// });
+app.get("/", (req, res) => {
+    res.redirect("/listings");
+});
 
 // app.get("/demouser", async(req, res) => {
 //     let fakeUser = new User({
