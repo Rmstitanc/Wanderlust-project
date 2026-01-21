@@ -1,6 +1,6 @@
-# 🌍 Wnderlust
+# 🌍 Wanderlust
 
-Wnderlust is a full-stack travel and accommodation discovery platform that enables users to explore, create, and review property listings. The application is designed with real-world features such as secure authentication, cloud-based image uploads, interactive map integration, dynamic reviews, and strong validations.
+Wanderlust is a full-stack travel and accommodation discovery platform that enables users to explore, create, and review property listings. The application is designed with real-world features such as secure authentication, cloud-based image uploads, interactive map integration, dynamic reviews, and strong validations.
 
 ---
 
@@ -79,7 +79,7 @@ https://wanderlust-project-wdlt.onrender.com/listings
 ## 📂 Project Structure
 
 ```txt
-wnderlust/
+wanderlust/
 │── models/         # Database schemas
 │── routes/         # Application routes
 │── controllers/    # Business logic
